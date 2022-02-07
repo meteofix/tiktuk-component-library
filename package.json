@@ -1,5 +1,8 @@
 {
-  "name": "tiktuk-component-library",
+  "name": "@meteofix/tiktuk-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/meteofix"
+  },
   "version": "1.0.0",
   "description": "library with some components for tiktuk project",
   "main": "dist/cjs/index.js",
