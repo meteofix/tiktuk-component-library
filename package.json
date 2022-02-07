@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/meteofix"
   },
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "library with some components for tiktuk project",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
